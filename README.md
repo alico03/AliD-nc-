@@ -6,7 +6,7 @@
 - ☁️ Cloud Services
 - 🎮 Game Development
 
-### Kullandığım Diller
+### Languages ​​
 ![PHP](https://img.shields.io/badge/-PHP-8993BE?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
